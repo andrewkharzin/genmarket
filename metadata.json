@@ -1,0 +1,7 @@
+{
+  "name": "MarketGenius",
+  "description": "A modern, AI-powered marketplace inspired by Avito, featuring smart search, inventory management visualizations, and a sleek responsive design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
